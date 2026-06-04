@@ -1,0 +1,1 @@
+gcc -std=c99 main.c -o pongo -lraylib -lm && ./pongo
